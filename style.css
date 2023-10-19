@@ -2,6 +2,9 @@ body {
     background: #CCCCCC
 }
 
+h1 {
+    style="text-align: center"
+
 p{
     text-align: center;
 }
@@ -9,6 +12,3 @@ p{
 strong {
     color: red;
 }
-
-
-    
