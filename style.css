@@ -9,6 +9,10 @@ p{
     text-align: center;
 }
 
+#missao {
+    style=font-size: 20px
+}
+
 strong {
     color: red;
 }
