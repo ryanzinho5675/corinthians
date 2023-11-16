@@ -1,26 +1,32 @@
 body {
-    background: #CCCCCC
+
 }
 
-
 #banner {
-    
+    widht:100%
+}
+
+.principal{
+    background: #cccccc
 }
 
 h1 {
-    style="text-align: center"
+    text-align: center;
+}
 
-p{
+p {
     text-align: center;
 }
 
 #missao {
-    style=font-size: 20px
+    font-size: 20px
 }
 
-strong {
+em strong {
     color: red;
 }
 .itens {
     font-style: italic
 }
+
+h2
