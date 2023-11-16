@@ -29,4 +29,10 @@ em strong {
     font-style: italic
 }
 
-h2
+.beneficios {
+    background: #ffffff;
+}
+
+h2 {
+    texy-align: center;
+}
